@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/doshivivek/demoApp.git/static/css/main.26a01724.chunk.css",
-    "main.js": "/doshivivek/demoApp.git/static/js/main.57f21737.chunk.js",
-    "main.js.map": "/doshivivek/demoApp.git/static/js/main.57f21737.chunk.js.map",
-    "runtime-main.js": "/doshivivek/demoApp.git/static/js/runtime-main.7368e816.js",
-    "runtime-main.js.map": "/doshivivek/demoApp.git/static/js/runtime-main.7368e816.js.map",
-    "static/js/2.188c72c8.chunk.js": "/doshivivek/demoApp.git/static/js/2.188c72c8.chunk.js",
-    "static/js/2.188c72c8.chunk.js.map": "/doshivivek/demoApp.git/static/js/2.188c72c8.chunk.js.map",
-    "index.html": "/doshivivek/demoApp.git/index.html",
-    "precache-manifest.e489f1634bf987c4b28a705a49c26fbf.js": "/doshivivek/demoApp.git/precache-manifest.e489f1634bf987c4b28a705a49c26fbf.js",
-    "service-worker.js": "/doshivivek/demoApp.git/service-worker.js",
-    "static/css/main.26a01724.chunk.css.map": "/doshivivek/demoApp.git/static/css/main.26a01724.chunk.css.map",
-    "static/js/2.188c72c8.chunk.js.LICENSE.txt": "/doshivivek/demoApp.git/static/js/2.188c72c8.chunk.js.LICENSE.txt"
+    "main.css": "/doshivivek/demoApp/static/css/main.26a01724.chunk.css",
+    "main.js": "/doshivivek/demoApp/static/js/main.57f21737.chunk.js",
+    "main.js.map": "/doshivivek/demoApp/static/js/main.57f21737.chunk.js.map",
+    "runtime-main.js": "/doshivivek/demoApp/static/js/runtime-main.a663db08.js",
+    "runtime-main.js.map": "/doshivivek/demoApp/static/js/runtime-main.a663db08.js.map",
+    "static/js/2.188c72c8.chunk.js": "/doshivivek/demoApp/static/js/2.188c72c8.chunk.js",
+    "static/js/2.188c72c8.chunk.js.map": "/doshivivek/demoApp/static/js/2.188c72c8.chunk.js.map",
+    "index.html": "/doshivivek/demoApp/index.html",
+    "precache-manifest.b3ed3057626f8ce9e75ca74c59349436.js": "/doshivivek/demoApp/precache-manifest.b3ed3057626f8ce9e75ca74c59349436.js",
+    "service-worker.js": "/doshivivek/demoApp/service-worker.js",
+    "static/css/main.26a01724.chunk.css.map": "/doshivivek/demoApp/static/css/main.26a01724.chunk.css.map",
+    "static/js/2.188c72c8.chunk.js.LICENSE.txt": "/doshivivek/demoApp/static/js/2.188c72c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7368e816.js",
+    "static/js/runtime-main.a663db08.js",
     "static/js/2.188c72c8.chunk.js",
     "static/css/main.26a01724.chunk.css",
     "static/js/main.57f21737.chunk.js"
